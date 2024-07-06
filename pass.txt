@@ -1,0 +1,5 @@
+user = braj70901
+pass = isSdFLOkHXzJJFax
+        user: 'braj70901@gmail.com',
+        pass: 'vpwm jlsd piai gfjl'
+uri--- for mongodb mongodb+srv://braj70901:isSdFLOkHXzJJFax@testpro.bz2qg3u.mongodb.net/?retryWrites=true&w=majority&appName=testpro

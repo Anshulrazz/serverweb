@@ -1,0 +1,730 @@
+2024-07-01T14:54:06.965Z info: Server running on port 5000
+2024-07-01T14:54:10.708Z info: MongoDB connected...
+2024-07-01T14:54:26.244Z info: Request to fetch all projects
+2024-07-01T14:54:26.380Z info: Request to fetch all projects
+2024-07-01T14:58:23.301Z info: Request to create a new project
+2024-07-01T14:58:23.302Z info: Request Body: {"title":"MUKESH KUMAR","overview":"ANSHUL IS THE BOSS OF ALL UNIVERSE"}
+2024-07-01T14:58:23.303Z info: Request Files: {"image":[{"fieldname":"image","originalname":"Screenshot 2024-04-02 203523.png","encoding":"7bit","mimetype":"image/png","destination":"uploads/","filename":"1719845903289-Screenshot 2024-04-02 203523.png","path":"uploads\\1719845903289-Screenshot 2024-04-02 203523.png","size":219089}],"file":[{"fieldname":"file","originalname":"Screenshot 2024-04-04 225646.png","encoding":"7bit","mimetype":"image/png","destination":"uploads/","filename":"1719845903295-Screenshot 2024-04-04 225646.png","path":"uploads\\1719845903295-Screenshot 2024-04-04 225646.png","size":122368}]}
+2024-07-01T14:58:23.427Z info: Project created successfully
+2024-07-01T14:58:29.562Z info: Request to fetch all projects
+2024-07-01T14:58:29.635Z info: Request to fetch all projects
+2024-07-01T14:59:29.501Z info: Request to fetch all blogs
+2024-07-01T14:59:29.595Z info: Request to fetch all blogs
+2024-07-01T14:59:44.901Z info: Request to create a new blog
+2024-07-01T14:59:44.902Z info: Request Body: {"title":"anshul","content":"SDKVEDRRIFGHWEKRUYGHWERKIUY"}
+2024-07-01T14:59:44.903Z info: Request File: {"fieldname":"image","originalname":"Screenshot 2024-04-04 162539.png","encoding":"7bit","mimetype":"image/png","destination":"uploads/","filename":"1719845984898-Screenshot 2024-04-04 162539.png","path":"uploads\\1719845984898-Screenshot 2024-04-04 162539.png","size":137784}
+2024-07-01T14:59:45.073Z info: Blog created successfully
+2024-07-01T14:59:48.359Z info: Request to fetch all blogs
+2024-07-01T14:59:48.481Z info: Request to fetch all blogs
+2024-07-01T15:00:30.452Z info: Request to fetch all blogs
+2024-07-01T15:00:30.554Z info: Request to fetch all blogs
+2024-07-01T15:17:42.734Z info: Request to create a new blog
+2024-07-01T15:17:42.735Z info: Request Body: {"title":"anshul","content":"SDKVEDRRIFGHWEKRUYGHWERKIUY"}
+2024-07-01T15:17:42.735Z info: Request File: {"fieldname":"image","originalname":"Screenshot 2024-04-04 162539.png","encoding":"7bit","mimetype":"image/png","destination":"uploads/","filename":"1719847062725-Screenshot 2024-04-04 162539.png","path":"uploads\\1719847062725-Screenshot 2024-04-04 162539.png","size":137784}
+2024-07-01T15:17:42.957Z info: Blog created successfully
+2024-07-01T15:23:00.205Z info: Request to create a new blog
+2024-07-01T15:23:00.206Z info: Request Body: {"title":"anshul","content":"SDKVEDRRIFGHWEKRUYGHWERKIUY"}
+2024-07-01T15:23:00.207Z info: Request File: {"fieldname":"image","originalname":"Screenshot 2024-04-04 162539.png","encoding":"7bit","mimetype":"image/png","destination":"uploads/","filename":"1719847380201-Screenshot 2024-04-04 162539.png","path":"uploads\\1719847380201-Screenshot 2024-04-04 162539.png","size":137784}
+2024-07-01T15:23:00.363Z info: Blog created successfully
+2024-07-01T15:57:05.339Z info: Request to fetch all blogs
+2024-07-01T15:57:05.457Z info: Request to fetch all blogs
+2024-07-01T15:57:09.827Z info: Request to fetch all blogs
+2024-07-01T15:57:10.012Z info: Request to fetch all blogs
+2024-07-01T15:57:10.540Z info: Request to fetch all projects
+2024-07-01T15:57:10.657Z info: Request to fetch all projects
+2024-07-01T15:57:12.252Z info: Request to fetch all blogs
+2024-07-01T15:57:12.336Z info: Request to fetch all blogs
+2024-07-01T15:57:14.411Z info: Request to fetch all projects
+2024-07-01T15:57:14.503Z info: Request to fetch all projects
+2024-07-01T15:57:19.339Z info: Request to fetch all projects
+2024-07-01T15:57:19.421Z info: Request to fetch all projects
+2024-07-01T15:57:20.138Z info: Request to fetch all projects
+2024-07-01T15:57:20.304Z info: Request to fetch all projects
+2024-07-01T15:57:20.952Z info: Request to fetch all projects
+2024-07-01T15:57:21.013Z info: Request to fetch all projects
+2024-07-01T15:57:21.758Z info: Request to fetch all projects
+2024-07-01T15:57:21.813Z info: Request to fetch all projects
+2024-07-01T15:57:22.558Z info: Request to fetch all projects
+2024-07-01T15:57:22.615Z info: Request to fetch all projects
+2024-07-01T15:57:23.373Z info: Request to fetch all projects
+2024-07-01T15:57:23.535Z info: Request to fetch all projects
+2024-07-01T15:57:32.703Z info: Request to fetch all blogs
+2024-07-01T15:57:32.868Z info: Request to fetch all blogs
+2024-07-01T15:57:43.242Z info: Request to fetch all blogs
+2024-07-01T15:57:43.383Z info: Request to fetch all blogs
+2024-07-01T15:57:46.904Z info: Request to fetch all projects
+2024-07-01T15:57:46.975Z info: Request to fetch all projects
+2024-07-02T05:49:43.877Z info: Server running on port 5000
+2024-07-02T05:50:16.535Z error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2024-07-02T05:54:38.027Z info: Server running on port 5000
+2024-07-02T05:55:11.136Z error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2024-07-02T05:57:17.015Z info: Server running on port 5000
+2024-07-02T05:57:17.041Z info: MongoDB connected...
+2024-07-02T05:58:59.386Z info: Request to create a new project
+2024-07-02T05:58:59.387Z info: Request Body: {"title":"TDM challenge 🌺 ","overview":"Hii this is my demo project "}
+2024-07-02T05:58:59.389Z info: Request Files: {"image":[{"fieldname":"image","originalname":"Screenshot 2024-05-03 185102.png","encoding":"7bit","mimetype":"image/png","destination":"uploads/","filename":"1719899939272-Screenshot 2024-05-03 185102.png","path":"uploads\\1719899939272-Screenshot 2024-05-03 185102.png","size":1106312}],"file":[{"fieldname":"file","originalname":"ansh.psd","encoding":"7bit","mimetype":"application/octet-stream","destination":"uploads/","filename":"1719899939315-ansh.psd","path":"uploads\\1719899939315-ansh.psd","size":4909492}]}
+2024-07-02T05:58:59.484Z info: Project created successfully
+2024-07-02T05:59:02.532Z info: Request to fetch all projects
+2024-07-02T05:59:02.620Z info: Request to fetch all projects
+2024-07-02T06:00:53.569Z info: Server running on port 5000
+2024-07-02T06:00:53.620Z info: MongoDB connected...
+2024-07-02T06:02:18.914Z info: Request to create a new project
+2024-07-02T06:02:18.916Z info: Request Body: {"title":"TDM challenge 🌺 ","overview":"Hii this is my demo project "}
+2024-07-02T06:02:18.916Z info: Request Files: {"image":[{"fieldname":"image","originalname":"Screenshot 2024-05-03 185102.png","encoding":"7bit","mimetype":"image/png","destination":"uploads/","filename":"1719900138280-Screenshot 2024-05-03 185102.png","path":"uploads\\1719900138280-Screenshot 2024-05-03 185102.png","size":1106312}],"file":[{"fieldname":"file","originalname":"mongosh-2.2.10-win32-x64.zip","encoding":"7bit","mimetype":"application/x-zip-compressed","destination":"uploads/","filename":"1719900138326-mongosh-2.2.10-win32-x64.zip","path":"uploads\\1719900138326-mongosh-2.2.10-win32-x64.zip","size":44699235}]}
+2024-07-02T06:02:18.978Z info: Project created successfully
+2024-07-02T06:02:23.800Z info: Request to fetch all projects
+2024-07-02T06:02:23.873Z info: Request to fetch all projects
+2024-07-02T06:21:38.939Z info: Request to fetch all projects
+2024-07-02T06:21:38.980Z info: Request to fetch all projects
+2024-07-02T06:23:16.382Z info: Request to fetch all projects
+2024-07-02T06:23:16.441Z info: Request to fetch all projects
+2024-07-02T06:23:23.175Z info: Request to fetch all projects
+2024-07-02T06:23:23.193Z info: Request to fetch all projects
+2024-07-02T06:23:31.052Z info: Request to fetch all projects
+2024-07-02T06:23:31.061Z info: Request to fetch all projects
+2024-07-02T06:23:32.800Z info: Request to fetch all projects
+2024-07-02T06:23:32.811Z info: Request to fetch all projects
+2024-07-02T06:23:36.017Z info: Request to fetch all projects
+2024-07-02T06:23:36.027Z info: Request to fetch all projects
+2024-07-02T06:23:38.424Z info: Request to fetch all projects
+2024-07-02T06:23:38.436Z info: Request to fetch all projects
+2024-07-02T06:23:41.687Z info: Request to fetch all projects
+2024-07-02T06:23:41.742Z info: Request to fetch all projects
+2024-07-02T06:23:46.910Z info: Request to fetch all projects
+2024-07-02T06:23:46.927Z info: Request to fetch all projects
+2024-07-02T06:23:50.468Z info: Request to fetch all projects
+2024-07-02T06:23:50.475Z info: Request to fetch all projects
+2024-07-02T06:23:57.005Z info: Request to fetch all projects
+2024-07-02T06:23:57.016Z info: Request to fetch all projects
+2024-07-02T06:24:19.539Z info: Request to fetch all projects
+2024-07-02T06:24:19.551Z info: Request to fetch all projects
+2024-07-02T06:24:23.604Z info: Request to fetch all projects
+2024-07-02T06:24:23.610Z info: Request to fetch all projects
+2024-07-02T06:24:27.684Z info: Request to fetch all projects
+2024-07-02T06:24:27.691Z info: Request to fetch all projects
+2024-07-02T06:24:47.835Z info: Request to fetch all projects
+2024-07-02T06:24:47.841Z info: Request to fetch all projects
+2024-07-02T06:24:49.559Z info: Request to fetch all projects
+2024-07-02T06:24:49.596Z info: Request to fetch all projects
+2024-07-02T06:24:54.914Z info: Request to fetch all projects
+2024-07-02T06:24:54.920Z info: Request to fetch all projects
+2024-07-02T06:24:58.425Z info: Request to fetch all projects
+2024-07-02T06:24:58.434Z info: Request to fetch all projects
+2024-07-02T06:25:04.017Z info: Request to fetch all projects
+2024-07-02T06:25:04.033Z info: Request to fetch all projects
+2024-07-02T06:25:23.964Z info: Request to fetch all projects
+2024-07-02T06:25:23.975Z info: Request to fetch all projects
+2024-07-02T06:25:45.431Z info: Request to fetch all projects
+2024-07-02T06:25:45.439Z info: Request to fetch all projects
+2024-07-02T06:37:31.597Z info: Request to fetch all projects
+2024-07-02T06:37:31.610Z info: Request to fetch all projects
+2024-07-02T08:46:56.500Z info: Server running on port 5000
+2024-07-02T08:46:56.635Z info: MongoDB connected...
+2024-07-02T08:49:18.986Z info: Request to fetch all blogs
+2024-07-02T08:49:19.172Z info: Request to fetch all blogs
+2024-07-02T08:49:26.451Z info: Request to fetch all projects
+2024-07-02T08:49:26.481Z info: Request to fetch all projects
+2024-07-02T08:56:05.184Z info: Request to fetch all blogs
+2024-07-02T08:56:05.225Z info: Request to fetch all blogs
+2024-07-02T08:56:17.142Z info: Request to fetch all projects
+2024-07-02T08:56:17.180Z info: Request to fetch all projects
+2024-07-02T09:10:46.918Z info: Request to fetch all blogs
+2024-07-02T09:10:46.988Z info: Request to fetch all blogs
+2024-07-02T09:11:13.983Z info: Request to fetch all blogs
+2024-07-02T09:11:14.019Z info: Request to fetch all blogs
+2024-07-02T09:13:09.272Z info: Request to fetch all blogs
+2024-07-02T09:13:09.311Z info: Request to fetch all blogs
+2024-07-02T09:13:46.712Z info: Request to create a new blog
+2024-07-02T09:13:46.713Z info: Request Body: {"title":"Hii This is anshul kumar","content":"Hiii"}
+2024-07-02T09:13:46.715Z info: Request File: {"fieldname":"image","originalname":"download_image_1718645159764.png","encoding":"7bit","mimetype":"image/png","destination":"uploads/","filename":"1719911626700-download_image_1718645159764.png","path":"uploads\\1719911626700-download_image_1718645159764.png","size":373451}
+2024-07-02T09:13:46.773Z info: Blog created successfully
+2024-07-02T09:13:51.049Z info: Request to fetch all blogs
+2024-07-02T09:13:51.146Z info: Request to fetch all blogs
+2024-07-02T09:14:41.294Z info: Request to fetch all blogs
+2024-07-02T09:14:41.308Z info: Request to fetch all blogs
+2024-07-02T09:14:46.959Z info: Request to fetch all projects
+2024-07-02T09:14:46.973Z info: Request to fetch all projects
+2024-07-02T09:15:18.089Z info: Request to create a new project
+2024-07-02T09:15:18.091Z info: Request Body: {"title":"DSA ASSIGHNMENT","overview":"Nothing"}
+2024-07-02T09:15:18.092Z info: Request Files: {"image":[{"fieldname":"image","originalname":"Screenshot 2024-06-28 112211.png","encoding":"7bit","mimetype":"image/png","destination":"uploads/","filename":"1719911717980-Screenshot 2024-06-28 112211.png","path":"uploads\\1719911717980-Screenshot 2024-06-28 112211.png","size":140163}],"file":[{"fieldname":"file","originalname":"ansh.psd","encoding":"7bit","mimetype":"application/octet-stream","destination":"uploads/","filename":"1719911717994-ansh.psd","path":"uploads\\1719911717994-ansh.psd","size":4909492}]}
+2024-07-02T09:15:18.103Z info: Project created successfully
+2024-07-02T09:15:21.988Z info: Request to fetch all projects
+2024-07-02T09:15:21.997Z info: Request to fetch all projects
+2024-07-02T11:33:38.234Z info: Request to fetch all projects
+2024-07-02T11:33:38.265Z info: Request to fetch all projects
+2024-07-02T11:34:36.300Z info: Request to fetch all projects
+2024-07-02T11:34:36.316Z info: Request to fetch all projects
+2024-07-02T11:37:12.277Z info: Server running on port 5000
+2024-07-02T11:37:12.342Z info: MongoDB connected...
+2024-07-02T11:37:57.696Z info: Email sent: %s
+2024-07-02T11:37:57.709Z info: ::1 - - [02/Jul/2024:11:37:57 +0000] "POST /api/send-email HTTP/1.1" 200 37 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-02T11:38:17.559Z info: Email sent: %s
+2024-07-02T11:38:17.564Z info: ::1 - - [02/Jul/2024:11:38:17 +0000] "POST /api/send-email HTTP/1.1" 200 37 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-02T11:43:22.918Z info: Email sent: %s
+2024-07-02T11:43:22.921Z info: ::1 - - [02/Jul/2024:11:43:22 +0000] "POST /api/send-email HTTP/1.1" 200 37 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-02T11:49:05.340Z info: Server running on port 5000
+2024-07-02T11:49:05.376Z info: MongoDB connected...
+2024-07-02T11:49:42.681Z info: Email sent: %s
+2024-07-02T11:49:42.685Z info: ::1 - - [02/Jul/2024:11:49:42 +0000] "POST /api/send-email HTTP/1.1" 200 37 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-02T11:51:07.043Z info: Email sent: %s
+2024-07-02T11:51:07.048Z info: ::1 - - [02/Jul/2024:11:51:07 +0000] "POST /api/send-email HTTP/1.1" 200 37 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-02T11:54:03.958Z info: Server running on port 5000
+2024-07-02T11:54:04.139Z info: MongoDB connected...
+2024-07-02T11:54:10.916Z info: Email sent: %s
+2024-07-02T11:54:10.924Z info: ::1 - - [02/Jul/2024:11:54:10 +0000] "POST /api/send-email HTTP/1.1" 200 37 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-02T12:01:02.615Z info: Server running on port 5000
+2024-07-02T12:01:02.640Z info: MongoDB connected...
+2024-07-02T12:01:42.851Z info: Email sent: %s
+2024-07-02T12:01:42.857Z info: ::1 - - [02/Jul/2024:12:01:42 +0000] "POST /api/send-email HTTP/1.1" 200 37 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-02T12:03:26.316Z info: Email sent: %s
+2024-07-02T12:03:26.320Z info: ::1 - - [02/Jul/2024:12:03:26 +0000] "POST /api/send-email HTTP/1.1" 200 37 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-02T12:04:58.976Z info: Server running on port 5000
+2024-07-02T12:04:59.008Z info: MongoDB connected...
+2024-07-02T12:05:18.957Z info: Email sent: %s
+2024-07-02T12:05:18.971Z info: ::1 - - [02/Jul/2024:12:05:18 +0000] "POST /api/send-email HTTP/1.1" 200 37 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-02T12:42:40.476Z info: Server running on port 5000
+2024-07-02T12:42:40.595Z info: MongoDB connected...
+2024-07-02T13:26:13.112Z info: Request to create a new project
+2024-07-02T13:26:13.123Z info: Request Body: {"title":"Explore the World of Cybersecurity and Web Development with Anshul Kumar","overview":"sjfggrwiiuewhviu hviuewh fvu wriuv w hh"}
+2024-07-02T13:26:13.124Z info: Request Files: {"image":[{"fieldname":"image","originalname":"Screenshot 2024-04-04 225646.png","encoding":"7bit","mimetype":"image/png","destination":"uploads/","filename":"1719926772963-Screenshot 2024-04-04 225646.png","path":"uploads\\1719926772963-Screenshot 2024-04-04 225646.png","size":122368}],"file":[{"fieldname":"file","originalname":"ansh.psd","encoding":"7bit","mimetype":"application/octet-stream","destination":"uploads/","filename":"1719926772983-ansh.psd","path":"uploads\\1719926772983-ansh.psd","size":4909492}]}
+2024-07-02T13:26:13.329Z info: Project created successfully
+2024-07-02T13:26:13.354Z info: ::1 - - [02/Jul/2024:13:26:13 +0000] "POST /api/projects HTTP/1.1" 200 42 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-02T13:29:50.225Z info: Request to fetch all projects
+2024-07-02T13:29:51.036Z info: ::1 - - [02/Jul/2024:13:29:51 +0000] "GET /api/projects HTTP/1.1" 200 652 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-02T13:29:51.046Z info: Request to fetch all projects
+2024-07-02T13:29:51.086Z info: ::1 - - [02/Jul/2024:13:29:51 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-02T13:30:08.187Z info: Request to fetch all projects
+2024-07-02T13:30:08.206Z info: ::1 - - [02/Jul/2024:13:30:08 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-02T13:30:08.212Z info: Request to fetch all projects
+2024-07-02T13:30:08.326Z info: ::1 - - [02/Jul/2024:13:30:08 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-02T13:30:10.030Z info: Request to fetch all blogs
+2024-07-02T13:30:10.044Z info: ::1 - - [02/Jul/2024:13:30:10 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-02T13:30:10.049Z info: Request to fetch all blogs
+2024-07-02T13:30:10.194Z info: ::1 - - [02/Jul/2024:13:30:10 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-03T05:04:03.288Z info: Email sent: %s
+2024-07-03T05:04:03.563Z info: ::1 - - [03/Jul/2024:05:04:03 +0000] "POST /api/send-email HTTP/1.1" 200 37 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-03T05:18:55.429Z info: Request to fetch all projects
+2024-07-03T05:18:55.529Z info: ::1 - - [03/Jul/2024:05:18:55 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-03T05:18:55.532Z info: Request to fetch all projects
+2024-07-03T05:18:55.542Z info: ::1 - - [03/Jul/2024:05:18:55 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-03T05:19:00.930Z info: Request to fetch all blogs
+2024-07-03T05:19:00.939Z info: ::1 - - [03/Jul/2024:05:19:00 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-03T05:19:00.941Z info: Request to fetch all blogs
+2024-07-03T05:19:00.948Z info: ::1 - - [03/Jul/2024:05:19:00 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-03T06:13:39.717Z info: Server running on port 5000
+2024-07-03T06:13:39.801Z info: MongoDB connected...
+2024-07-03T06:14:24.490Z info: Server running on port 5000
+2024-07-03T06:14:24.539Z info: MongoDB connected...
+2024-07-04T13:44:43.672Z info: Server running on port 5000
+2024-07-04T13:44:43.838Z info: MongoDB connected...
+2024-07-05T20:36:44.736Z info: Server running on port 5000
+2024-07-05T20:36:48.769Z info: MongoDB connected...
+2024-07-05T20:37:36.845Z info: Request to fetch all blogs
+2024-07-05T20:37:37.043Z info: ::1 - - [05/Jul/2024:20:37:37 +0000] "GET /api/blogs HTTP/1.1" 200 907 "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/126.0.0.0"
+2024-07-05T20:37:37.061Z info: Request to fetch all blogs
+2024-07-05T20:37:37.078Z info: ::1 - - [05/Jul/2024:20:37:37 +0000] "GET /uploads/1719841745426-logo.png HTTP/1.1" 404 169 "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/126.0.0.0"
+2024-07-05T20:37:37.095Z info: ::1 - - [05/Jul/2024:20:37:37 +0000] "GET /uploads/1719847062725-Screenshot%202024-04-04%20162539.png HTTP/1.1" 404 197 "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/126.0.0.0"
+2024-07-05T20:37:37.111Z info: ::1 - - [05/Jul/2024:20:37:37 +0000] "GET /uploads/1719847380201-Screenshot%202024-04-04%20162539.png HTTP/1.1" 404 197 "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/126.0.0.0"
+2024-07-05T20:37:37.378Z info: ::1 - - [05/Jul/2024:20:37:37 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/126.0.0.0"
+2024-07-05T20:37:51.377Z info: Request to fetch all projects
+2024-07-05T20:37:51.471Z info: ::1 - - [05/Jul/2024:20:37:51 +0000] "GET /api/projects HTTP/1.1" 200 446 "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/126.0.0.0"
+2024-07-05T20:37:51.477Z info: Request to fetch all projects
+2024-07-05T20:37:51.494Z info: ::1 - - [05/Jul/2024:20:37:51 +0000] "GET /uploads/1719845489066-Screenshot%202024-03-28%20202841.png HTTP/1.1" 404 197 "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/126.0.0.0"
+2024-07-05T20:37:51.529Z info: ::1 - - [05/Jul/2024:20:37:51 +0000] "GET /uploads/1719845903289-Screenshot%202024-04-02%20203523.png HTTP/1.1" 404 197 "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/126.0.0.0"
+2024-07-05T20:37:51.588Z info: ::1 - - [05/Jul/2024:20:37:51 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/126.0.0.0"
+2024-07-05T20:37:59.572Z info: Request to fetch all blogs
+2024-07-05T20:37:59.678Z info: ::1 - - [05/Jul/2024:20:37:59 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/126.0.0.0"
+2024-07-05T20:37:59.687Z info: Request to fetch all blogs
+2024-07-05T20:37:59.741Z info: ::1 - - [05/Jul/2024:20:37:59 +0000] "GET /uploads/1719841745426-logo.png HTTP/1.1" 404 169 "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/126.0.0.0"
+2024-07-05T20:37:59.746Z info: ::1 - - [05/Jul/2024:20:37:59 +0000] "GET /uploads/1719847062725-Screenshot%202024-04-04%20162539.png HTTP/1.1" 404 197 "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/126.0.0.0"
+2024-07-05T20:37:59.760Z info: ::1 - - [05/Jul/2024:20:37:59 +0000] "GET /uploads/1719847380201-Screenshot%202024-04-04%20162539.png HTTP/1.1" 404 197 "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/126.0.0.0"
+2024-07-05T20:38:00.089Z info: ::1 - - [05/Jul/2024:20:38:00 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/126.0.0.0"
+2024-07-06T07:38:53.923Z info: Server running on port 5000
+2024-07-06T07:39:21.665Z info: Request to fetch all blogs
+2024-07-06T07:39:26.766Z error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2024-07-06T07:39:31.693Z error: Error fetching blogs: Operation `blogs.find()` buffering timed out after 10000ms
+2024-07-06T07:39:31.708Z info: ::1 - - [06/Jul/2024:07:39:31 +0000] "GET /api/blogs HTTP/1.1" 500 45 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T07:39:31.716Z info: Request to fetch all blogs
+2024-07-06T07:39:41.737Z error: Error fetching blogs: Operation `blogs.find()` buffering timed out after 10000ms
+2024-07-06T07:39:41.750Z info: ::1 - - [06/Jul/2024:07:39:41 +0000] "GET /api/blogs HTTP/1.1" 500 45 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T07:41:40.651Z info: Request to create a new blog
+2024-07-06T07:41:40.652Z info: Request Body: {"title":"Cyber Security:","content":"Cyber Security is the body of technologies, processes, and practices designed to protect networks, devices, programs, and data from attack, theft, damage, modification, or unauthorized access. This includes using special programs to check for harmful software and learning how to recognize and avoid online scams. By practicing good cybersecurity, you can ensure your data stays private and your online experiences are secure. It’s also known as Information Security (INFOSEC), Information Assurance (IA), or System Security. "}
+2024-07-06T07:41:40.666Z info: Request File: {"fieldname":"image","originalname":"cyber.jpg","encoding":"7bit","mimetype":"image/jpeg","destination":"uploads/","filename":"1720251700643-cyber.jpg","path":"uploads\\1720251700643-cyber.jpg","size":348162}
+2024-07-06T07:41:45.479Z info: Request to create a new blog
+2024-07-06T07:41:45.480Z info: Request Body: {"title":"Cyber Security:","content":"Cyber Security is the body of technologies, processes, and practices designed to protect networks, devices, programs, and data from attack, theft, damage, modification, or unauthorized access. This includes using special programs to check for harmful software and learning how to recognize and avoid online scams. By practicing good cybersecurity, you can ensure your data stays private and your online experiences are secure. It’s also known as Information Security (INFOSEC), Information Assurance (IA), or System Security. "}
+2024-07-06T07:41:45.483Z info: Request File: {"fieldname":"image","originalname":"cyber.jpg","encoding":"7bit","mimetype":"image/jpeg","destination":"uploads/","filename":"1720251705472-cyber.jpg","path":"uploads\\1720251705472-cyber.jpg","size":348162}
+2024-07-06T07:41:50.708Z error: Error saving blog: Operation `blogs.insertOne()` buffering timed out after 10000ms
+2024-07-06T07:41:50.712Z info: ::1 - - [06/Jul/2024:07:41:50 +0000] "POST /api/blogs HTTP/1.1" 500 44 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T07:41:55.506Z error: Error saving blog: Operation `blogs.insertOne()` buffering timed out after 10000ms
+2024-07-06T07:41:55.513Z info: ::1 - - [06/Jul/2024:07:41:55 +0000] "POST /api/blogs HTTP/1.1" 500 44 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T07:41:58.410Z info: Request to fetch all blogs
+2024-07-06T07:42:08.425Z error: Error fetching blogs: Operation `blogs.find()` buffering timed out after 10000ms
+2024-07-06T07:42:08.430Z info: ::1 - - [06/Jul/2024:07:42:08 +0000] "GET /api/blogs HTTP/1.1" 500 45 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T07:42:08.438Z info: Request to fetch all blogs
+2024-07-06T07:42:11.182Z info: Request to create a new blog
+2024-07-06T07:42:11.182Z info: Request Body: {"title":"Cyber Security:","content":"Cyber Security is the body of technologies, processes, and practices designed to protect networks, devices, programs, and data from attack, theft, damage, modification, or unauthorized access. This includes using special programs to check for harmful software and learning how to recognize and avoid online scams. By practicing good cybersecurity, you can ensure your data stays private and your online experiences are secure. It’s also known as Information Security (INFOSEC), Information Assurance (IA), or System Security. "}
+2024-07-06T07:42:11.185Z info: Request File: {"fieldname":"image","originalname":"cyber.jpg","encoding":"7bit","mimetype":"image/jpeg","destination":"uploads/","filename":"1720251731174-cyber.jpg","path":"uploads\\1720251731174-cyber.jpg","size":348162}
+2024-07-06T07:42:18.452Z error: Error fetching blogs: Operation `blogs.find()` buffering timed out after 10000ms
+2024-07-06T07:42:18.454Z info: ::1 - - [06/Jul/2024:07:42:18 +0000] "GET /api/blogs HTTP/1.1" 500 45 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T07:42:21.201Z error: Error saving blog: Operation `blogs.insertOne()` buffering timed out after 10000ms
+2024-07-06T07:42:21.206Z info: ::1 - - [06/Jul/2024:07:42:21 +0000] "POST /api/blogs HTTP/1.1" 500 44 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T07:44:19.700Z info: Server running on port 5000
+2024-07-06T07:44:23.820Z info: MongoDB connected...
+2024-07-06T07:44:33.189Z info: Request to create a new blog
+2024-07-06T07:44:33.189Z info: Request Body: {"title":"Cyber Security:","content":"Cyber Security is the body of technologies, processes, and practices designed to protect networks, devices, programs, and data from attack, theft, damage, modification, or unauthorized access. This includes using special programs to check for harmful software and learning how to recognize and avoid online scams. By practicing good cybersecurity, you can ensure your data stays private and your online experiences are secure. It’s also known as Information Security (INFOSEC), Information Assurance (IA), or System Security. "}
+2024-07-06T07:44:33.192Z info: Request File: {"fieldname":"image","originalname":"cyber.jpg","encoding":"7bit","mimetype":"image/jpeg","destination":"uploads/","filename":"1720251873180-cyber.jpg","path":"uploads\\1720251873180-cyber.jpg","size":348162}
+2024-07-06T07:44:33.313Z info: Blog created successfully
+2024-07-06T07:44:33.324Z info: ::1 - - [06/Jul/2024:07:44:33 +0000] "POST /api/blogs HTTP/1.1" 200 39 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T07:44:39.285Z info: Request to fetch all blogs
+2024-07-06T07:44:39.357Z info: ::1 - - [06/Jul/2024:07:44:39 +0000] "GET /api/blogs HTTP/1.1" 200 645 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T07:44:39.363Z info: Request to fetch all blogs
+2024-07-06T07:44:39.469Z info: ::1 - - [06/Jul/2024:07:44:39 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T07:44:50.267Z info: Request to create a new blog
+2024-07-06T07:44:50.267Z info: Request Body: {"title":"Cyber Security:","content":"Cyber Security is the body of technologies, processes, and practices designed to protect networks, devices, programs, and data from attack, theft, damage, modification, or unauthorized access. This includes using special programs to check for harmful software and learning how to recognize and avoid online scams. By practicing good cybersecurity, you can ensure your data stays private and your online experiences are secure. It’s also known as Information Security (INFOSEC), Information Assurance (IA), or System Security. "}
+2024-07-06T07:44:50.269Z info: Request File: {"fieldname":"image","originalname":"cyber.jpg","encoding":"7bit","mimetype":"image/jpeg","destination":"uploads/","filename":"1720251890261-cyber.jpg","path":"uploads\\1720251890261-cyber.jpg","size":348162}
+2024-07-06T07:44:50.430Z info: Blog created successfully
+2024-07-06T07:44:50.433Z info: ::1 - - [06/Jul/2024:07:44:50 +0000] "POST /api/blogs HTTP/1.1" 200 39 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T07:44:56.401Z info: Request to fetch all blogs
+2024-07-06T07:44:56.506Z info: ::1 - - [06/Jul/2024:07:44:56 +0000] "GET /api/blogs HTTP/1.1" 200 1289 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T07:44:56.510Z info: Request to fetch all blogs
+2024-07-06T07:44:56.655Z info: ::1 - - [06/Jul/2024:07:44:56 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T07:46:02.207Z info: Request to fetch all blogs
+2024-07-06T07:46:02.305Z info: ::1 - - [06/Jul/2024:07:46:02 +0000] "GET /api/blogs HTTP/1.1" 200 645 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T07:46:02.319Z info: Request to fetch all blogs
+2024-07-06T07:46:02.381Z info: ::1 - - [06/Jul/2024:07:46:02 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T07:53:06.062Z info: Email sent: %s
+2024-07-06T07:53:06.067Z info: ::1 - - [06/Jul/2024:07:53:06 +0000] "POST /api/send-email HTTP/1.1" 200 37 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T08:16:15.402Z info: Request to fetch all blogs
+2024-07-06T08:16:15.518Z info: ::1 - - [06/Jul/2024:08:16:15 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T08:16:15.521Z info: Request to fetch all blogs
+2024-07-06T08:16:15.616Z info: ::1 - - [06/Jul/2024:08:16:15 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:18:01.044Z info: Server running on port 5000
+2024-07-06T10:18:04.697Z info: MongoDB connected...
+2024-07-06T10:38:13.335Z info: Server is running on port 5000
+2024-07-06T10:38:15.637Z info: MongoDB connected...
+2024-07-06T10:39:18.939Z info: Request to create a new project
+2024-07-06T10:39:18.940Z info: Request Body: {"title":"Hii","overview":"kfbdfkjvkj","imageUrl":"https://th.bing.com/th/id/OIP.MBwSwCpNc0IJIw8oBGD54gHaEo?rs=1&pid=ImgDetMain","fileUrl":"https://th.bing.com/th/id/OIP.MBwSwCpNc0IJIw8oBGD54gHaEo?rs=1&pid=ImgDetMain"}
+2024-07-06T10:39:19.105Z info: Project created successfully
+2024-07-06T10:39:19.122Z info: ::1 - - [06/Jul/2024:10:39:19 +0000] "POST /api/projects HTTP/1.1" 200 42 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:39:24.131Z info: Request to fetch all projects
+2024-07-06T10:39:24.268Z info: ::1 - - [06/Jul/2024:10:39:24 +0000] "GET /api/projects HTTP/1.1" 200 261 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:39:24.275Z info: Request to fetch all projects
+2024-07-06T10:39:24.344Z info: ::1 - - [06/Jul/2024:10:39:24 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:40:36.659Z info: Request to fetch all projects
+2024-07-06T10:40:36.778Z info: ::1 - - [06/Jul/2024:10:40:36 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:40:44.440Z info: Request to fetch all projects
+2024-07-06T10:40:44.584Z info: ::1 - - [06/Jul/2024:10:40:44 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:42:56.009Z info: Request to fetch all projects
+2024-07-06T10:42:56.169Z info: ::1 - - [06/Jul/2024:10:42:56 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:42:56.181Z info: Request to fetch all projects
+2024-07-06T10:42:56.263Z info: ::1 - - [06/Jul/2024:10:42:56 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:43:38.066Z info: Request to fetch all blogs
+2024-07-06T10:43:38.179Z info: ::1 - - [06/Jul/2024:10:43:38 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:43:38.189Z info: Request to fetch all blogs
+2024-07-06T10:43:38.381Z info: ::1 - - [06/Jul/2024:10:43:38 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:43:45.000Z info: Request to fetch all blogs
+2024-07-06T10:43:45.195Z info: ::1 - - [06/Jul/2024:10:43:45 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:43:45.198Z info: Request to fetch all blogs
+2024-07-06T10:43:45.294Z info: ::1 - - [06/Jul/2024:10:43:45 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:44:44.571Z info: Request to fetch all blogs
+2024-07-06T10:44:44.631Z info: ::1 - - [06/Jul/2024:10:44:44 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:45:07.355Z info: Request to fetch all blogs
+2024-07-06T10:45:07.495Z info: ::1 - - [06/Jul/2024:10:45:07 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:45:07.503Z info: Request to fetch all blogs
+2024-07-06T10:45:07.853Z info: ::1 - - [06/Jul/2024:10:45:07 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:45:20.764Z info: Request to fetch all blogs
+2024-07-06T10:45:20.907Z info: ::1 - - [06/Jul/2024:10:45:20 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:45:27.031Z info: Request to fetch all blogs
+2024-07-06T10:45:27.179Z info: ::1 - - [06/Jul/2024:10:45:27 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:46:09.636Z info: Request to fetch all blogs
+2024-07-06T10:46:09.801Z info: ::1 - - [06/Jul/2024:10:46:09 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/126.0.0.0"
+2024-07-06T10:46:13.633Z info: Request to fetch all blogs
+2024-07-06T10:46:13.736Z info: ::1 - - [06/Jul/2024:10:46:13 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/126.0.0.0"
+2024-07-06T10:46:19.650Z info: Request to fetch all blogs
+2024-07-06T10:46:19.812Z info: ::1 - - [06/Jul/2024:10:46:19 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/126.0.0.0"
+2024-07-06T10:46:20.641Z info: Request to fetch all blogs
+2024-07-06T10:46:20.746Z info: ::1 - - [06/Jul/2024:10:46:20 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/126.0.0.0"
+2024-07-06T10:46:27.668Z info: Request to fetch all blogs
+2024-07-06T10:46:28.030Z info: ::1 - - [06/Jul/2024:10:46:28 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/126.0.0.0"
+2024-07-06T10:46:31.882Z info: Request to fetch all blogs
+2024-07-06T10:46:31.981Z info: ::1 - - [06/Jul/2024:10:46:31 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/126.0.0.0"
+2024-07-06T10:46:38.520Z info: Request to fetch all blogs
+2024-07-06T10:46:38.695Z info: ::1 - - [06/Jul/2024:10:46:38 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/126.0.0.0"
+2024-07-06T10:46:38.699Z info: Request to fetch all blogs
+2024-07-06T10:46:38.846Z info: ::1 - - [06/Jul/2024:10:46:38 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/126.0.0.0"
+2024-07-06T10:48:41.717Z info: Request to fetch all blogs
+2024-07-06T10:48:41.882Z info: ::1 - - [06/Jul/2024:10:48:41 +0000] "GET /api/blogs HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:48:41.894Z info: Request to fetch all blogs
+2024-07-06T10:48:42.071Z info: ::1 - - [06/Jul/2024:10:48:42 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:49:29.906Z info: Request to fetch all projects
+2024-07-06T10:49:29.988Z info: ::1 - - [06/Jul/2024:10:49:29 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:49:30.051Z info: Request to fetch all projects
+2024-07-06T10:49:30.147Z info: ::1 - - [06/Jul/2024:10:49:30 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:49:37.736Z info: Request to fetch all projects
+2024-07-06T10:49:37.983Z info: ::1 - - [06/Jul/2024:10:49:37 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:49:37.985Z info: Request to fetch all projects
+2024-07-06T10:49:38.074Z info: ::1 - - [06/Jul/2024:10:49:38 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:49:54.903Z info: Request to create a new blog
+2024-07-06T10:49:54.904Z info: Request Body: {"title":"hiiii","content":"jbbkjbak;jbkjabvjkabvkjabvkjbvj","imageUrl":"https://th.bing.com/th/id/OIP.MBwSwCpNc0IJIw8oBGD54gHaEo?rs=1&pid=ImgDetMain"}
+2024-07-06T10:49:55.063Z info: Blog created successfully
+2024-07-06T10:49:55.065Z info: ::1 - - [06/Jul/2024:10:49:55 +0000] "POST /api/blogs HTTP/1.1" 200 39 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:49:59.491Z info: Request to fetch all blogs
+2024-07-06T10:49:59.546Z info: ::1 - - [06/Jul/2024:10:49:59 +0000] "GET /api/blogs HTTP/1.1" 200 194 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:49:59.557Z info: Request to fetch all blogs
+2024-07-06T10:49:59.603Z info: ::1 - - [06/Jul/2024:10:49:59 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:54:00.748Z info: Request to fetch all blogs
+2024-07-06T10:54:00.934Z info: ::1 - - [06/Jul/2024:10:54:00 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:54:00.947Z info: Request to fetch all blogs
+2024-07-06T10:54:01.064Z info: ::1 - - [06/Jul/2024:10:54:01 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:54:33.733Z info: Request to create a new blog
+2024-07-06T10:54:33.734Z info: Request Body: {"title":"hiii","content":"kbjfkvbjk","imageUrl":"https://th.bing.com/th/id/OIP.MBwSwCpNc0IJIw8oBGD54gHaEo?rs=1&pid=ImgDetMain"}
+2024-07-06T10:54:34.029Z info: Blog created successfully
+2024-07-06T10:54:34.033Z info: ::1 - - [06/Jul/2024:10:54:34 +0000] "POST /api/blogs HTTP/1.1" 200 39 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:54:40.309Z info: Request to fetch all blogs
+2024-07-06T10:54:40.993Z info: ::1 - - [06/Jul/2024:10:54:40 +0000] "GET /api/blogs HTTP/1.1" 200 364 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:54:40.996Z info: Request to fetch all blogs
+2024-07-06T10:54:41.110Z info: ::1 - - [06/Jul/2024:10:54:41 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:54:54.052Z info: Request to create a new project
+2024-07-06T10:54:54.053Z info: Request Body: {"title":" llkdblakvq","overview":"lskjvbskjb","imageUrl":"https://th.bing.com/th/id/OIP.MBwSwCpNc0IJIw8oBGD54gHaEo?rs=1&pid=ImgDetMain","fileUrl":"https://th.bing.com/th/id/OIP.MBwSwCpNc0IJIw8oBGD54gHaEo?rs=1&pid=ImgDetMain"}
+2024-07-06T10:54:54.114Z info: Project created successfully
+2024-07-06T10:54:54.117Z info: ::1 - - [06/Jul/2024:10:54:54 +0000] "POST /api/projects HTTP/1.1" 200 42 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:55:56.954Z info: Request to fetch all projects
+2024-07-06T10:55:57.177Z info: ::1 - - [06/Jul/2024:10:55:57 +0000] "GET /api/projects HTTP/1.1" 200 529 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:55:57.186Z info: Request to fetch all projects
+2024-07-06T10:55:57.835Z info: ::1 - - [06/Jul/2024:10:55:57 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:56:14.450Z info: Request to create a new project
+2024-07-06T10:56:14.451Z info: Request Body: {"title":"kafdjbkjabvkb","overview":"jbkjdfkjb","imageUrl":"https://th.bing.com/th/id/OIP.MBwSwCpNc0IJIw8oBGD54gHaEo?rs=1&pid=ImgDetMain","fileUrl":"https://th.bing.com/th/id/OIP.MBwSwCpNc0IJIw8oBGD54gHaEo?rs=1&pid=ImgDetMain"}
+2024-07-06T10:56:14.511Z info: Project created successfully
+2024-07-06T10:56:14.513Z info: ::1 - - [06/Jul/2024:10:56:14 +0000] "POST /api/projects HTTP/1.1" 200 42 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:59:53.477Z info: Request to fetch all projects
+2024-07-06T10:59:53.553Z info: ::1 - - [06/Jul/2024:10:59:53 +0000] "GET /api/projects HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T10:59:53.573Z info: Request to fetch all projects
+2024-07-06T10:59:53.821Z info: ::1 - - [06/Jul/2024:10:59:53 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:00:08.636Z info: Request to fetch all projects
+2024-07-06T11:00:08.790Z info: ::1 - - [06/Jul/2024:11:00:08 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:00:14.637Z info: Request to fetch all projects
+2024-07-06T11:00:14.893Z info: ::1 - - [06/Jul/2024:11:00:14 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:02:08.449Z info: Request to fetch all projects
+2024-07-06T11:02:08.510Z info: ::1 - - [06/Jul/2024:11:02:08 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:02:08.516Z info: Request to fetch all projects
+2024-07-06T11:02:08.583Z info: ::1 - - [06/Jul/2024:11:02:08 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:02:37.099Z info: Request to fetch all projects
+2024-07-06T11:02:37.197Z info: ::1 - - [06/Jul/2024:11:02:37 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:02:37.224Z info: Request to fetch all projects
+2024-07-06T11:02:37.330Z info: ::1 - - [06/Jul/2024:11:02:37 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:02:53.607Z info: Request to fetch all blogs
+2024-07-06T11:02:53.672Z info: ::1 - - [06/Jul/2024:11:02:53 +0000] "GET /api/blogs HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:02:53.676Z info: Request to fetch all blogs
+2024-07-06T11:02:53.841Z info: ::1 - - [06/Jul/2024:11:02:53 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:10:48.640Z info: Request to fetch all projects
+2024-07-06T11:10:48.736Z info: ::1 - - [06/Jul/2024:11:10:48 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:10:48.743Z info: Request to fetch all projects
+2024-07-06T11:10:48.808Z info: ::1 - - [06/Jul/2024:11:10:48 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:28:34.737Z info: Request to fetch all projects
+2024-07-06T11:28:34.870Z info: ::1 - - [06/Jul/2024:11:28:34 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:28:34.874Z info: Request to fetch all projects
+2024-07-06T11:28:34.939Z info: ::1 - - [06/Jul/2024:11:28:34 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:31:46.278Z info: Request to create a new project
+2024-07-06T11:31:46.280Z info: Request Body: {"title":"AnshBgRemove","overview":"This is a Background remover tool Designed in react js. In this project WE used API for request and response","imageUrl":"https://anshremove.onrender.com/static/media/logo.cac68abb5c96f40bee40.png","fileUrl":"https://github.com/Anshulrazz/bgremove.git"}
+2024-07-06T11:31:46.479Z info: Project created successfully
+2024-07-06T11:31:46.483Z info: ::1 - - [06/Jul/2024:11:31:46 +0000] "POST /api/projects HTTP/1.1" 200 42 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:31:51.680Z info: Request to fetch all projects
+2024-07-06T11:31:51.764Z info: ::1 - - [06/Jul/2024:11:31:51 +0000] "GET /api/projects HTTP/1.1" 200 332 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:31:51.767Z info: Request to fetch all projects
+2024-07-06T11:31:51.909Z info: ::1 - - [06/Jul/2024:11:31:51 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:33:18.075Z info: Request to fetch all projects
+2024-07-06T11:33:18.718Z info: ::1 - - [06/Jul/2024:11:33:18 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:33:18.724Z info: Request to fetch all projects
+2024-07-06T11:33:18.957Z info: ::1 - - [06/Jul/2024:11:33:18 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:33:46.292Z info: Request to fetch all projects
+2024-07-06T11:33:46.397Z info: ::1 - - [06/Jul/2024:11:33:46 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:33:46.400Z info: Request to fetch all projects
+2024-07-06T11:33:46.463Z info: ::1 - - [06/Jul/2024:11:33:46 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:34:01.696Z info: Request to fetch all projects
+2024-07-06T11:34:01.862Z info: ::1 - - [06/Jul/2024:11:34:01 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:34:02.639Z info: Request to fetch all projects
+2024-07-06T11:34:02.829Z info: ::1 - - [06/Jul/2024:11:34:02 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:34:04.633Z info: Request to fetch all projects
+2024-07-06T11:34:04.830Z info: ::1 - - [06/Jul/2024:11:34:04 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:34:07.634Z info: Request to fetch all projects
+2024-07-06T11:34:07.822Z info: ::1 - - [06/Jul/2024:11:34:07 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:34:08.635Z info: Request to fetch all projects
+2024-07-06T11:34:08.786Z info: ::1 - - [06/Jul/2024:11:34:08 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:34:09.643Z info: Request to fetch all projects
+2024-07-06T11:34:09.743Z info: ::1 - - [06/Jul/2024:11:34:09 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:34:53.013Z info: Request to fetch all projects
+2024-07-06T11:34:53.258Z info: ::1 - - [06/Jul/2024:11:34:53 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:34:53.260Z info: Request to fetch all projects
+2024-07-06T11:34:53.442Z info: ::1 - - [06/Jul/2024:11:34:53 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:37:27.321Z info: Request to fetch all projects
+2024-07-06T11:37:27.469Z info: ::1 - - [06/Jul/2024:11:37:27 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T11:37:27.484Z info: Request to fetch all projects
+2024-07-06T11:37:27.622Z info: ::1 - - [06/Jul/2024:11:37:27 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T13:12:37.811Z info: Request to fetch all projects
+2024-07-06T13:12:39.340Z info: ::1 - - [06/Jul/2024:13:12:39 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T13:12:39.344Z info: Request to fetch all projects
+2024-07-06T13:12:39.420Z info: ::1 - - [06/Jul/2024:13:12:39 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T13:13:23.847Z info: Request to fetch all blogs
+2024-07-06T13:13:23.971Z info: ::1 - - [06/Jul/2024:13:13:23 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T13:13:23.985Z info: Request to fetch all blogs
+2024-07-06T13:13:24.644Z info: ::1 - - [06/Jul/2024:13:13:24 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:38:40.519Z info: Request to fetch all projects
+2024-07-06T15:38:42.609Z info: Request to fetch all blogs
+2024-07-06T15:38:50.551Z info: ::1 - - [06/Jul/2024:15:38:50 +0000] "GET /api/projects HTTP/1.1" - - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:38:50.554Z info: ::1 - - [06/Jul/2024:15:38:50 +0000] "GET /api/blogs HTTP/1.1" - - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:38:50.953Z info: Request to fetch all blogs
+2024-07-06T15:39:08.156Z info: Request to fetch all projects
+2024-07-06T15:39:10.158Z info: ::1 - - [06/Jul/2024:15:39:10 +0000] "GET /api/projects HTTP/1.1" - - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:39:10.162Z info: ::1 - - [06/Jul/2024:15:39:10 +0000] "GET /api/blogs HTTP/1.1" - - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:39:10.321Z info: Request to fetch all projects
+2024-07-06T15:39:10.654Z error: Error fetching projects: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2024-07-06T15:39:12.636Z error: Error fetching blogs: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2024-07-06T15:39:20.965Z error: Error fetching blogs: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2024-07-06T15:39:30.326Z info: Request to fetch all projects
+2024-07-06T15:39:38.172Z error: Error fetching projects: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2024-07-06T15:39:40.325Z error: Error fetching projects: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2024-07-06T15:39:40.328Z info: ::1 - - [06/Jul/2024:15:39:40 +0000] "GET /api/projects HTTP/1.1" 500 663 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:40:00.332Z error: Error fetching projects: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2024-07-06T15:40:00.337Z info: ::1 - - [06/Jul/2024:15:40:00 +0000] "GET /api/projects HTTP/1.1" 500 663 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:40:45.731Z info: Request to fetch all projects
+2024-07-06T15:40:46.422Z info: ::1 - - [06/Jul/2024:15:40:46 +0000] "GET /api/projects HTTP/1.1" 200 332 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:40:46.431Z info: Request to fetch all projects
+2024-07-06T15:40:46.579Z info: ::1 - - [06/Jul/2024:15:40:46 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:41:00.747Z info: Request to fetch all blogs
+2024-07-06T15:41:00.940Z info: ::1 - - [06/Jul/2024:15:41:00 +0000] "GET /api/blogs HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:41:00.955Z info: Request to fetch all blogs
+2024-07-06T15:41:01.025Z info: ::1 - - [06/Jul/2024:15:41:01 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:43:03.946Z info: Request to fetch all blogs
+2024-07-06T15:43:04.108Z info: ::1 - - [06/Jul/2024:15:43:04 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:43:04.116Z info: Request to fetch all blogs
+2024-07-06T15:43:04.180Z info: ::1 - - [06/Jul/2024:15:43:04 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:43:45.005Z info: Request to fetch all blogs
+2024-07-06T15:43:45.151Z info: ::1 - - [06/Jul/2024:15:43:45 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:43:45.155Z info: Request to fetch all blogs
+2024-07-06T15:43:45.511Z info: ::1 - - [06/Jul/2024:15:43:45 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:53:35.655Z info: Server is running on port 5000
+2024-07-06T15:53:40.007Z info: MongoDB connected...
+2024-07-06T15:54:37.900Z info: Request to create a new blog
+2024-07-06T15:54:37.901Z info: Request Body: {"title":"Cyber Security:","content":"Cybersecurity is the practice of protecting computer \nsystems, networks, and digital information from theft, damage, or unauthorized access.\nNetwork security is the practice of securing a computer network from intruders, whether targeted attackers or opportunistic malware.\nApplication security focuses on keeping software and devices free of threats. A compromised application could provide access to the data its designed to protect. \nInformation security protects the integrity and privacy of data, both in storage and in transit.\n","imageUrl":"https://th.bing.com/th/id/OIP.rcTMAkGuSrxAIhG92RGMEgHaFQ?rs=1&pid=ImgDetMain"}
+2024-07-06T15:54:37.979Z info: Blog created successfully
+2024-07-06T15:54:37.985Z info: ::1 - - [06/Jul/2024:15:54:37 +0000] "POST /api/blogs HTTP/1.1" 200 39 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:54:44.320Z info: Request to fetch all blogs
+2024-07-06T15:54:44.459Z info: ::1 - - [06/Jul/2024:15:54:44 +0000] "GET /api/blogs HTTP/1.1" 200 715 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:54:44.500Z info: Request to fetch all blogs
+2024-07-06T15:54:44.661Z info: ::1 - - [06/Jul/2024:15:54:44 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:55:40.798Z info: Request to fetch all blogs
+2024-07-06T15:55:40.875Z info: ::1 - - [06/Jul/2024:15:55:40 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:55:42.625Z info: Request to fetch all blogs
+2024-07-06T15:55:42.703Z info: ::1 - - [06/Jul/2024:15:55:42 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:55:46.633Z info: Request to fetch all blogs
+2024-07-06T15:55:46.787Z info: ::1 - - [06/Jul/2024:15:55:46 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:56:54.635Z info: Request to fetch all blogs
+2024-07-06T15:56:54.745Z info: ::1 - - [06/Jul/2024:15:56:54 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:56:58.638Z info: Request to fetch all blogs
+2024-07-06T15:56:58.878Z info: ::1 - - [06/Jul/2024:15:56:58 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:57:01.621Z info: Request to fetch all blogs
+2024-07-06T15:57:01.850Z info: ::1 - - [06/Jul/2024:15:57:01 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:57:06.122Z info: Request to fetch all blogs
+2024-07-06T15:57:08.093Z info: ::1 - - [06/Jul/2024:15:57:08 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:57:08.148Z info: Request to fetch all blogs
+2024-07-06T15:57:09.737Z info: ::1 - - [06/Jul/2024:15:57:09 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:57:13.701Z info: Request to fetch all blogs
+2024-07-06T15:57:14.532Z info: ::1 - - [06/Jul/2024:15:57:14 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:57:15.629Z info: Request to fetch all blogs
+2024-07-06T15:57:15.719Z info: ::1 - - [06/Jul/2024:15:57:15 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:57:17.627Z info: Request to fetch all blogs
+2024-07-06T15:57:17.820Z info: ::1 - - [06/Jul/2024:15:57:17 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:57:19.644Z info: Request to fetch all blogs
+2024-07-06T15:57:19.795Z info: ::1 - - [06/Jul/2024:15:57:19 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:57:43.258Z info: Request to fetch all blogs
+2024-07-06T15:57:43.350Z info: ::1 - - [06/Jul/2024:15:57:43 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:57:43.377Z info: Request to fetch all blogs
+2024-07-06T15:57:43.546Z info: ::1 - - [06/Jul/2024:15:57:43 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:57:52.294Z info: Request to fetch all blogs
+2024-07-06T15:57:52.302Z info: Request to fetch all blogs
+2024-07-06T15:57:52.369Z info: ::1 - - [06/Jul/2024:15:57:52 +0000] "GET /api/blogs HTTP/1.1" 200 715 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:57:52.425Z info: ::1 - - [06/Jul/2024:15:57:52 +0000] "GET /api/blogs HTTP/1.1" 200 715 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:58:56.626Z info: Request to fetch all blogs
+2024-07-06T15:58:56.860Z info: ::1 - - [06/Jul/2024:15:58:56 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:59:26.600Z info: Request to fetch all blogs
+2024-07-06T15:59:26.668Z info: ::1 - - [06/Jul/2024:15:59:26 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T15:59:26.687Z info: Request to fetch all blogs
+2024-07-06T15:59:26.942Z info: ::1 - - [06/Jul/2024:15:59:26 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T16:01:14.104Z info: Request to fetch all blogs
+2024-07-06T16:01:14.284Z info: ::1 - - [06/Jul/2024:16:01:14 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T16:01:14.288Z info: Request to fetch all blogs
+2024-07-06T16:01:14.432Z info: ::1 - - [06/Jul/2024:16:01:14 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T16:01:24.472Z info: Request to fetch all blogs
+2024-07-06T16:01:25.454Z info: ::1 - - [06/Jul/2024:16:01:25 +0000] "GET /api/blogs HTTP/1.1" 200 708 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T16:01:25.476Z info: Request to fetch all blogs
+2024-07-06T16:01:25.763Z info: ::1 - - [06/Jul/2024:16:01:25 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T16:01:44.695Z info: Request to fetch all blogs
+2024-07-06T16:01:44.774Z info: ::1 - - [06/Jul/2024:16:01:44 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T16:01:44.808Z info: Request to fetch all blogs
+2024-07-06T16:01:45.005Z info: ::1 - - [06/Jul/2024:16:01:45 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T16:01:49.806Z info: Request to fetch all blogs
+2024-07-06T16:01:50.124Z info: ::1 - - [06/Jul/2024:16:01:50 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T16:01:50.128Z info: Request to fetch all blogs
+2024-07-06T16:01:50.422Z info: ::1 - - [06/Jul/2024:16:01:50 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T16:01:53.702Z info: Request to fetch all blogs
+2024-07-06T16:01:53.708Z info: Request to fetch all blogs
+2024-07-06T16:01:53.878Z info: ::1 - - [06/Jul/2024:16:01:53 +0000] "GET /api/blogs HTTP/1.1" 200 708 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T16:01:53.938Z info: ::1 - - [06/Jul/2024:16:01:53 +0000] "GET /api/blogs HTTP/1.1" 200 708 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T18:18:54.163Z info: Server is running on port 5000
+2024-07-06T18:18:57.555Z info: MongoDB connected...
+2024-07-06T18:21:52.312Z error: Error sending email: Missing credentials for "PLAIN"
+2024-07-06T18:21:52.325Z info: ::1 - - [06/Jul/2024:18:21:52 +0000] "POST /api/send-email HTTP/1.1" 500 74 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T18:22:01.871Z error: Error sending email: Missing credentials for "PLAIN"
+2024-07-06T18:22:01.885Z info: ::1 - - [06/Jul/2024:18:22:01 +0000] "POST /api/send-email HTTP/1.1" 500 74 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T18:26:09.284Z error: Error sending email: Missing credentials for "PLAIN"
+2024-07-06T18:26:09.396Z info: ::1 - - [06/Jul/2024:18:26:09 +0000] "POST /api/send-email HTTP/1.1" 500 74 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T18:26:27.991Z info: Server is running on port 5000
+2024-07-06T18:26:30.353Z info: MongoDB connected...
+2024-07-06T18:26:42.201Z info: Email sent: 250 2.0.0 OK  1720290403 d2e1a72fcca58-70b0a2e2b43sm3912335b3a.137 - gsmtp
+2024-07-06T18:26:42.210Z info: ::1 - - [06/Jul/2024:18:26:42 +0000] "POST /api/send-email HTTP/1.1" 200 37 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:16:16.139Z info: Request to fetch all blogs
+2024-07-06T19:16:16.668Z info: ::1 - - [06/Jul/2024:19:16:16 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:16:16.683Z info: Request to fetch all blogs
+2024-07-06T19:16:16.747Z info: ::1 - - [06/Jul/2024:19:16:16 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:16:18.895Z info: Request to fetch all blogs
+2024-07-06T19:16:19.004Z info: ::1 - - [06/Jul/2024:19:16:19 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:16:19.019Z info: Request to fetch all blogs
+2024-07-06T19:16:19.100Z info: ::1 - - [06/Jul/2024:19:16:19 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:17:58.455Z info: Request to fetch all blogs
+2024-07-06T19:17:58.631Z info: ::1 - - [06/Jul/2024:19:17:58 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:17:58.634Z info: Request to fetch all blogs
+2024-07-06T19:17:58.700Z info: ::1 - - [06/Jul/2024:19:17:58 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:18:07.451Z info: Request to fetch all blogs
+2024-07-06T19:18:07.539Z info: ::1 - - [06/Jul/2024:19:18:07 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:18:07.633Z info: Request to fetch all blogs
+2024-07-06T19:18:07.702Z info: ::1 - - [06/Jul/2024:19:18:07 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:18:26.627Z info: Request to fetch all blogs
+2024-07-06T19:18:26.800Z info: ::1 - - [06/Jul/2024:19:18:26 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:18:26.811Z info: Request to fetch all blogs
+2024-07-06T19:18:26.921Z info: ::1 - - [06/Jul/2024:19:18:26 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:18:30.554Z info: Request to fetch all blogs
+2024-07-06T19:18:30.564Z info: Request to fetch all blogs
+2024-07-06T19:18:30.728Z info: ::1 - - [06/Jul/2024:19:18:30 +0000] "GET /api/blogs HTTP/1.1" 200 708 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:18:30.883Z info: ::1 - - [06/Jul/2024:19:18:30 +0000] "GET /api/blogs HTTP/1.1" 200 708 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:18:46.637Z info: Request to fetch all blogs
+2024-07-06T19:18:46.695Z info: ::1 - - [06/Jul/2024:19:18:46 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:18:48.622Z info: Request to fetch all blogs
+2024-07-06T19:18:48.930Z info: ::1 - - [06/Jul/2024:19:18:48 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:18:53.621Z info: Request to fetch all blogs
+2024-07-06T19:18:53.781Z info: ::1 - - [06/Jul/2024:19:18:53 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:19:16.849Z info: Request to fetch all blogs
+2024-07-06T19:19:16.949Z info: ::1 - - [06/Jul/2024:19:19:16 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:19:16.979Z info: Request to fetch all blogs
+2024-07-06T19:19:17.096Z info: ::1 - - [06/Jul/2024:19:19:17 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:23:01.237Z info: Request to fetch all blogs
+2024-07-06T19:23:01.310Z info: ::1 - - [06/Jul/2024:19:23:01 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:23:01.329Z info: Request to fetch all blogs
+2024-07-06T19:23:01.378Z info: ::1 - - [06/Jul/2024:19:23:01 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:24:56.648Z info: Request to fetch all blogs
+2024-07-06T19:24:56.936Z info: ::1 - - [06/Jul/2024:19:24:56 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:24:58.621Z info: Request to fetch all blogs
+2024-07-06T19:24:58.694Z info: ::1 - - [06/Jul/2024:19:24:58 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:25:01.795Z info: Request to fetch all blogs
+2024-07-06T19:25:01.868Z info: ::1 - - [06/Jul/2024:19:25:01 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:25:29.412Z info: Request to fetch all projects
+2024-07-06T19:25:29.575Z info: ::1 - - [06/Jul/2024:19:25:29 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:25:29.580Z info: Request to fetch all projects
+2024-07-06T19:25:29.668Z info: ::1 - - [06/Jul/2024:19:25:29 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:26:32.516Z info: Request to fetch all projects
+2024-07-06T19:26:32.615Z info: ::1 - - [06/Jul/2024:19:26:32 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:26:40.620Z info: Request to fetch all projects
+2024-07-06T19:26:40.710Z info: ::1 - - [06/Jul/2024:19:26:40 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:26:50.620Z info: Request to fetch all projects
+2024-07-06T19:26:50.853Z info: ::1 - - [06/Jul/2024:19:26:50 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:26:53.628Z info: Request to fetch all projects
+2024-07-06T19:26:53.808Z info: ::1 - - [06/Jul/2024:19:26:53 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:26:54.629Z info: Request to fetch all projects
+2024-07-06T19:26:54.696Z info: ::1 - - [06/Jul/2024:19:26:54 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:26:56.623Z info: Request to fetch all projects
+2024-07-06T19:26:56.753Z info: ::1 - - [06/Jul/2024:19:26:56 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:27:00.625Z info: Request to fetch all projects
+2024-07-06T19:27:00.736Z info: ::1 - - [06/Jul/2024:19:27:00 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:27:06.195Z info: Request to fetch all projects
+2024-07-06T19:27:06.348Z info: ::1 - - [06/Jul/2024:19:27:06 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:27:14.147Z info: Request to fetch all projects
+2024-07-06T19:27:14.153Z info: Request to fetch all projects
+2024-07-06T19:27:14.353Z info: ::1 - - [06/Jul/2024:19:27:14 +0000] "GET /api/projects HTTP/1.1" 200 332 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:27:14.362Z info: ::1 - - [06/Jul/2024:19:27:14 +0000] "GET /api/projects HTTP/1.1" 200 332 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:27:21.629Z info: Request to fetch all projects
+2024-07-06T19:27:22.670Z info: ::1 - - [06/Jul/2024:19:27:22 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:27:28.621Z info: Request to fetch all projects
+2024-07-06T19:27:28.709Z info: ::1 - - [06/Jul/2024:19:27:28 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:27:29.622Z info: Request to fetch all projects
+2024-07-06T19:27:29.695Z info: ::1 - - [06/Jul/2024:19:27:29 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:27:34.702Z info: Request to fetch all projects
+2024-07-06T19:27:34.788Z info: ::1 - - [06/Jul/2024:19:27:34 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:28:04.917Z info: Request to fetch all projects
+2024-07-06T19:28:04.991Z info: ::1 - - [06/Jul/2024:19:28:04 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:28:05.063Z info: Request to fetch all projects
+2024-07-06T19:28:05.165Z info: ::1 - - [06/Jul/2024:19:28:05 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:28:55.635Z info: Request to fetch all projects
+2024-07-06T19:28:55.709Z info: ::1 - - [06/Jul/2024:19:28:55 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:28:55.713Z info: Request to fetch all projects
+2024-07-06T19:28:55.916Z info: ::1 - - [06/Jul/2024:19:28:55 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:34:11.273Z info: Request to fetch all projects
+2024-07-06T19:34:11.457Z info: ::1 - - [06/Jul/2024:19:34:11 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:34:11.473Z info: Request to fetch all projects
+2024-07-06T19:34:11.683Z info: ::1 - - [06/Jul/2024:19:34:11 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:34:39.599Z info: Request to fetch all projects
+2024-07-06T19:34:39.657Z info: ::1 - - [06/Jul/2024:19:34:39 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:34:39.677Z info: Request to fetch all projects
+2024-07-06T19:34:39.906Z info: ::1 - - [06/Jul/2024:19:34:39 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:41:20.803Z info: Request to create a new project
+2024-07-06T19:41:20.812Z info: Request Body: {"title":"Movie Recommendation System: ","overview":" A movie recommendation system is a type of information filtering system that seeks to predict the preferences of users and recommend movies that they are likely to enjoy. These systems are used extensively by streaming services like Netflix, Amazon Prime","imageUrl":"https://th.bing.com/th/id/OIP.5sQ452R5nempCuEL0yxRzAHaEJ?rs=1&pid=ImgDetMain","fileUrl":"https://github.com/Anshulrazz/movie_recommendation.git"}
+2024-07-06T19:41:21.153Z info: Project created successfully
+2024-07-06T19:41:21.161Z info: ::1 - - [06/Jul/2024:19:41:21 +0000] "POST /api/projects HTTP/1.1" 200 42 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:41:26.140Z info: Request to fetch all projects
+2024-07-06T19:41:26.227Z info: ::1 - - [06/Jul/2024:19:41:26 +0000] "GET /api/projects HTTP/1.1" 200 841 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:41:26.237Z info: Request to fetch all projects
+2024-07-06T19:41:26.415Z info: ::1 - - [06/Jul/2024:19:41:26 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:42:00.628Z info: Request to fetch all projects
+2024-07-06T19:42:00.720Z info: ::1 - - [06/Jul/2024:19:42:00 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:42:01.623Z info: Request to fetch all projects
+2024-07-06T19:42:01.667Z info: ::1 - - [06/Jul/2024:19:42:01 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:42:13.644Z info: Request to fetch all projects
+2024-07-06T19:42:13.716Z info: ::1 - - [06/Jul/2024:19:42:13 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:42:14.617Z info: Request to fetch all projects
+2024-07-06T19:42:14.671Z info: ::1 - - [06/Jul/2024:19:42:14 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:42:18.630Z info: Request to fetch all projects
+2024-07-06T19:42:18.754Z info: ::1 - - [06/Jul/2024:19:42:18 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:42:35.750Z info: Request to fetch all projects
+2024-07-06T19:42:35.822Z info: ::1 - - [06/Jul/2024:19:42:35 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:42:49.011Z info: Request to fetch all projects
+2024-07-06T19:42:49.077Z info: ::1 - - [06/Jul/2024:19:42:49 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:51:30.184Z info: Request to fetch all projects
+2024-07-06T19:51:30.783Z info: ::1 - - [06/Jul/2024:19:51:30 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:51:30.797Z info: Request to fetch all projects
+2024-07-06T19:51:31.047Z info: ::1 - - [06/Jul/2024:19:51:31 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:52:09.829Z info: Request to fetch all blogs
+2024-07-06T19:52:09.920Z info: ::1 - - [06/Jul/2024:19:52:09 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:52:09.938Z info: Request to fetch all blogs
+2024-07-06T19:52:10.025Z info: ::1 - - [06/Jul/2024:19:52:10 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:52:48.517Z info: Request to fetch all blogs
+2024-07-06T19:52:48.587Z info: ::1 - - [06/Jul/2024:19:52:48 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:52:48.591Z info: Request to fetch all blogs
+2024-07-06T19:52:48.676Z info: ::1 - - [06/Jul/2024:19:52:48 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:53:02.376Z info: Request to fetch all projects
+2024-07-06T19:53:02.466Z info: ::1 - - [06/Jul/2024:19:53:02 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:53:02.469Z info: Request to fetch all projects
+2024-07-06T19:53:02.651Z info: ::1 - - [06/Jul/2024:19:53:02 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:56:34.424Z info: Request to fetch all projects
+2024-07-06T19:56:34.754Z info: ::1 - - [06/Jul/2024:19:56:34 +0000] "GET /api/projects HTTP/1.1" 200 904 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:56:34.760Z info: Request to fetch all projects
+2024-07-06T19:56:34.825Z info: ::1 - - [06/Jul/2024:19:56:34 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:57:32.714Z info: Request to fetch all projects
+2024-07-06T19:57:32.814Z info: ::1 - - [06/Jul/2024:19:57:32 +0000] "GET /api/projects HTTP/1.1" 200 969 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:57:32.817Z info: Request to fetch all projects
+2024-07-06T19:57:32.923Z info: ::1 - - [06/Jul/2024:19:57:32 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:57:41.609Z info: Request to fetch all blogs
+2024-07-06T19:57:41.673Z info: ::1 - - [06/Jul/2024:19:57:41 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:57:41.675Z info: Request to fetch all blogs
+2024-07-06T19:57:41.881Z info: ::1 - - [06/Jul/2024:19:57:41 +0000] "GET /api/blogs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:57:46.899Z info: Request to fetch all projects
+2024-07-06T19:57:47.068Z info: ::1 - - [06/Jul/2024:19:57:47 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
+2024-07-06T19:57:47.071Z info: Request to fetch all projects
+2024-07-06T19:57:47.162Z info: ::1 - - [06/Jul/2024:19:57:47 +0000] "GET /api/projects HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0"
